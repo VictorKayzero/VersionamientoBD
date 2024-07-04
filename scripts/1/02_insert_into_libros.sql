@@ -1,0 +1,10 @@
+INSERT INTO libros (titulo, autor) VALUES ('Cien años de soledad', 'Gabriel García Márquez');
+INSERT INTO libros (titulo, autor) VALUES ('El principito', 'Antoine de Saint-Exupéry');
+INSERT INTO libros (titulo, autor) VALUES ('1984', 'George Orwell');
+INSERT INTO libros (titulo, autor) VALUES ('Don Quijote de la Mancha', 'Miguel de Cervantes');
+INSERT INTO libros (titulo, autor) VALUES ('Orgullo y prejuicio', 'Jane Austen');
+INSERT INTO libros (titulo, autor) VALUES ('Harry Potter y la piedra filosofal', 'J.K. Rowling');
+INSERT INTO libros (titulo, autor) VALUES ('Crónica de una muerte anunciada', 'Gabriel García Márquez');
+INSERT INTO libros (titulo, autor) VALUES ('El señor de los anillos', 'J.R.R. Tolkien');
+INSERT INTO libros (titulo, autor) VALUES ('Matar a un ruiseñor', 'Harper Lee');
+INSERT INTO libros (titulo, autor) VALUES ('El amor en los tiempos del cólera', 'Gabriel García Márquez');

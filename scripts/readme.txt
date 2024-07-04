@@ -1,0 +1,2 @@
+A este nivel se crearia una carpeta por entrega, de esta manera se ordenarian los commits cuando pasen a produccion
+preferentemente el nombre seria el caso en Jira o el planteado por el equipo , en este caso dejare "1" a modo de ejemplo
